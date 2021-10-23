@@ -9,3 +9,7 @@ $ mvn clean package
 # Launch jar file
 
 $ java -jar "name_of_jar_file".jar
+
+# Test the API using postman
+
+https://www.postman.com/
